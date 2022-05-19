@@ -2,7 +2,7 @@
 
 It's not filled with a lot of useful stuff, I mainly use it a dumping ground for any half-useful scripts, configuration files or school projects.
 
-<p align="justify"> 
+<p align="center"> 
   ✨✨✨
  </p>
 
