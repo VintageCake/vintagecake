@@ -1,5 +1,6 @@
 ### Welcome to my GitHub! It's not filled with a lot of useful stuff, I mainly use it a dumping ground for any half-useful scripts, configuration files or school projects.
 
+✨✨✨
 <!--
 **VintageCake/vintagecake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
